@@ -1,5 +1,5 @@
 # Python-Data-Science-Projects-
-Python, Data Science &amp; AIML Practice Projects
+Python, Data Science &amp; AIML Practice Projects.
 This repository contains my learning tasks and practice projects in:
 - Python Programming
 - Data Analysis using NumPy and Pandas
